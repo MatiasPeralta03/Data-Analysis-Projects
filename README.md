@@ -1,5 +1,6 @@
 # Data-Analysis-Projects
 Repository for various data analysis projects from Alex the Analyst using different data analysis tools.
+
 # Data Analysis Projects
 
 This repository contains data analysis projects inspired by Alex the Analyst's tutorials on YouTube. The projects are recreated and modified for learning purposes, using tools such as SQL, Tableau, Power BI, and Python.
